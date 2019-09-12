@@ -35,19 +35,19 @@ tips3:希望大家多多分享资料，可以在仓库中建立多层目录。
 * [双曲空间介绍](http://wiki.swarma.net/index.php/%E5%8F%8C%E6%9B%B2%E7%A9%BA%E9%97%B4%E6%A8%A1%E5%9E%8B)
 
 #### 相关论文
-> (1) Hyperbolic geometry of complex networks
-> (2) Popularity versus similarity in growing networks
-> (3) HYBED: HYPERBOLIC NEURAL GRAPH EMBEDDING
-> (4) Network Mapping by Replaying Hyperbolic Growth
+> (1) Hyperbolic geometry of complex networks</br>
+> (2) Popularity versus similarity in growing networks</br>
+> (3) HYBED: HYPERBOLIC NEURAL GRAPH EMBEDDING</br>
+> (4) Network Mapping by Replaying Hyperbolic Growth</br>
 
 ### 图嵌入
 * [图嵌入介绍](https://mp.weixin.qq.com/s/edrh-HXqW01Yx7c8tQ8UxA)
 
 #### 相关论文
->(1) A Comprehensive Survey of Graph Embedding: Problems, Techniques and Applications
-> (2) Graph Embedding Techniques, Applications, and Performance: A Survey
-> (3) DeepWalk: Online Learning of Social Representations
-> (4) LINE: Large-scale Information Network Embedding
+>(1) A Comprehensive Survey of Graph Embedding: Problems, Techniques and Applications</br>
+> (2) Graph Embedding Techniques, Applications, and Performance: A Survey</br>
+> (3) DeepWalk: Online Learning of Social Representations</br>
+> (4) LINE: Large-scale Information Network Embedding</br>
 
 #### 相关算法代码实现
 * [DeepWalk](https://github.com/phanein/deepwalk)
